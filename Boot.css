@@ -1,0 +1,62 @@
+body{
+    background: url("https://img.freepik.com/free-vector/vector-damask-seamless-pattern-background-classical-luxury-old-fashioned-damask-ornament-royal-victorian-seamless-texture-wallpapers-textile-wrapping-exquisite-floral-baroque-template_1217-639.jpg?size=338&ext=jpg")
+}
+.body {
+    min-height:500px;
+    background-color:white;
+    float: left;
+}
+.connect {
+    min-height: 300px;
+    background-color : white ;
+    float: right;
+}
+h1 {
+    color: aqua;
+    text-align: center;
+}
+.connect img{
+    width: 64px;
+    height: 64px;
+} 
+.footer {
+    background-color: grey;
+    height: 80px;
+    border-top:5px solid aqua;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+
+}
+.aboutme , .contact, .portfolio{
+    columns: #4aaaa5;;
+    font-weight: bold;
+    text-align: left;
+}
+.body img{
+    margin-right: 20px;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.body p{
+    text-align: justify;
+}
+.body input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#logo {
+    height: 60px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-left: 70px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    background: #4aaaa5;
+}
+
+
